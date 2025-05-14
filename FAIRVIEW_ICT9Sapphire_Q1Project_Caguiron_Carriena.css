@@ -1,5 +1,5 @@
 body {
-    background-image: url(file:///C:/Users/LEGION/Downloads/Untitled%20design.png);
+    background-image: url(https://scontent-mnl1-1.xx.fbcdn.net/v/t39.30808-6/497620421_122228254568064306_7891736058508880964_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_ohc=URwCzGXvrQIQ7kNvwHakoDp&_nc_oc=AdlgrngHzqWUJvpu9j_ualhcpJZs4yLBzTRJ2sTSIDzvYPKRCCfBJZ2XJjKGbjEvbww&_nc_zt=23&_nc_ht=scontent-mnl1-1.xx&_nc_gid=yNXnyetyfPMysGwh_w2viA&oh=00_AfK76qIzu0Y7WSwYYRlCidLSLT_bxnSJx-BiT-50tmkVfQ&oe=6829D220);
     background-repeat: repeat;
     background-size: cover;
     height: 100vh;
@@ -50,6 +50,7 @@ body {
 
 .image1 img{
     width: 90%; 
+    height: 500px;
     max-width: 1500px;
     height: auto; 
 }
